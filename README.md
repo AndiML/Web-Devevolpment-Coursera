@@ -1,6 +1,6 @@
 # Coursera: HTML, CSS and Javascript for Web Developers
-This repository contains all of the solution source code for the assignments.
-[HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+This repository contains all of the solution source code for the assignments of the course.
+It can be found under the following link (https://www.coursera.org/learn/html-css-javascript-for-web-developers).
 
 ## Module #2 Coding Assignment Solution
    code url: https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module2-solution
