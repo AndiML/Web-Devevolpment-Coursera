@@ -8,8 +8,8 @@ This course aims to teach the fundamental tools every web developer needs to kno
 
 ## Module #2 Coding Assignment Solution
 
-- **Code Repository**: [View on GitHub](https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module2-solution)
-- **Live Demo**: [Live View](https://kr-viku.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module2-solution/)
+- **Code Repository**: [View on GitHub](https://github.com/AndiML/Web-Devevolpment-Coursera/tree/main/module2-solution)
+- **Live Demo**: [Live View](https://htmlpreview.github.io/?https://github.com/AndiML/Web-Devevolpment-Coursera/blob/main/module2-solution/index.html)
 
 ## How to Use This Repository
 
